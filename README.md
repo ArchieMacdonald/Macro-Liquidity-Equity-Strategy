@@ -1,6 +1,7 @@
 # Macro Liquidity Equity Strategy
 
 This project implements a **systematic equity strategy** in QuantConnect Lean, combining macroeconomic indicators with fundamental stock screening.
+The strategy itself is based upon a youtube video: "Stock investing strategy for EVERYONE(which I developed) by "Defiant Gatekeeper"
 
 ## Idea
 - Use **Fed Funds Rate (FEDFUNDS)** and **Federal Reserve Balance Sheet (WALCL)** from FRED data to classify liquidity regimes:
