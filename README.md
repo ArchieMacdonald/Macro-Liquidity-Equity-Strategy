@@ -28,15 +28,10 @@ https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yo
 ## Results
 - Backtested from March 2022 to present.
 - Liquidity regime switching aligns allocations with macro environment.
-- [Add example equity curve plot here].
 
 ## Tools
 - QuantConnect Lean (QCAlgorithm)
 - Python 3.8+
 - Data sources: FRED, QuantConnect fundamentals
 
-## Next Steps
-- Add transaction cost modelling.
-- Compare Sharpe ratios vs SPY benchmark.
-- Extend to international equities.
 
